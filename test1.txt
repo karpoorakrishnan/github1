@@ -4,3 +4,4 @@ sum=sum+i
 print sum
 recycle
 mango
+apple
